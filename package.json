@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@sinonjs/formatio": "^2.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cordova-plugin-device": "^2.0.2",
     "eslint-plugin-import": "^2.12.0",
     "eslint-plugin-node": "^6.0.1",
